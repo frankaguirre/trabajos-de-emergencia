@@ -10,9 +10,9 @@
 |E-mail|frankagos1502@gmail.com|
 
 #ESTUDIOS
-|COLEGIO|I.E.T.A TUBARA|
+|Colegio|I.E.T.A TUBARA|
 |---|---|
-|SENA|ADSO|
+|Sena|ADSO|
 
 #TITULOS
 |Bachillerato|bachiller|
