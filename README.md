@@ -1,6 +1,7 @@
 # hoja-de-vida
 
 **Mi hoja de vida**
+<IMG-20230227-WA0000.jpg/>
 
 #informacion personal
 |Nombre completo|Frank Aguirre Ospino|
