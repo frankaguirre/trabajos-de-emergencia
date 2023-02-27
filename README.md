@@ -1,9 +1,8 @@
 # hoja-de-vida
+<a href="https://ibb.co/qMCFBp3"><img src="https://i.ibb.co/qMCFBp3/IMG-20230227-WA0000.jpg" alt="IMG-20230227-WA0000" border="0"></a>
 
-**Mi hoja de vida**
-<IMG-20230227-WA0000.jpg"/>
 
-#informacion personal
+#Datos personales
 |Nombre completo|Frank Aguirre Ospino|
 |---|---|
 |Cédula|1065657204|
